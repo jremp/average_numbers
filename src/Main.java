@@ -6,7 +6,7 @@ public class Main {
 
         double[] randomArray = createRandomArray(10, -5, 5);
 
-        System.out.println("Hello World!!");
+        System.out.println("Hello World!! It's a nice day out.");
 
         System.out.println("Numbers in the array are ");
         for(double val : randomArray)

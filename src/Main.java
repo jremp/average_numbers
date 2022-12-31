@@ -10,6 +10,8 @@ public class Main {
         System.out.println("Numbers in the array are ");
         for(double val : randomArray)
             System.out.println(val);
+
+        System.out.println("The average of these numbers is " + average(randomArray));
     }
 
     private static double average(double[] array){

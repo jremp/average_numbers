@@ -12,6 +12,8 @@ public class Main {
             System.out.println(val);
 
         System.out.println("The average of these numbers is " + average(randomArray));
+
+        System.out.println("Thank you for doing math with me today.");
     }
 
     private static double average(double[] array){
